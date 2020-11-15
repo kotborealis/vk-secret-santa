@@ -1,0 +1,12 @@
+{
+  "name": "secret-cirno",
+  "version": "1.0.0",
+  "dependencies": {
+    "btoa": "^1.2.1",
+    "chen.js": "^2.1.0",
+    "lowdb": "^1.0.0",
+    "md5": "^2.3.0",
+    "minvk": "^3.0.3",
+    "debug": "^4.2.0"
+  }
+}
